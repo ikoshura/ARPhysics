@@ -1,6 +1,6 @@
 # ARPhysics App Privacy Policy
 
-This document was last updated on [Date].
+This document was last updated on January 5, 2024.
 
 ## Introduction
 
