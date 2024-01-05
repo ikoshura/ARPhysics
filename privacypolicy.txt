@@ -1,0 +1,31 @@
+# ARPhysics Education App Privacy Policy
+
+*Last Updated: [Date]*
+
+## Introduction
+
+ARPhysics Education App ("we," "our," or "us") is committed to safeguarding the privacy of our users. This Privacy Policy outlines the types of information we do not collect when you use the ARPhysics mobile application (the "App").
+
+By using the ARPhysics App, you agree to the terms and conditions outlined in this Privacy Policy.
+
+## Information We Don't Collect
+
+We do not collect any personally identifiable information, such as your name, address, or contact details.
+
+## Data Security
+
+We employ industry-standard security measures to protect your non-personal information from unauthorized access, disclosure, alteration, and destruction.
+
+## Children's Privacy
+
+ARPhysics is intended for educational purposes, including use by children. We do not knowingly collect personal information from children under the age of 13. If you believe that a child has provided us with personal information, please contact us, and we will promptly delete such information.
+
+## Changes to this Privacy Policy
+
+We reserve the right to update this Privacy Policy at any time. Users will be notified of any changes via the App or through other means. By continuing to use the App after the modifications are effective, you agree to be bound by the revised Privacy Policy.
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [contact@email.com].
+
+*Thank you for using ARPhysics Education App!*
